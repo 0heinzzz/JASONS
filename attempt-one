@@ -1,0 +1,7 @@
+echo "# JASONS" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M JASONDATA
+git remote add origin https://github.com/0heinzzz/JASONS.git
+git push -u origin JASONDATA
